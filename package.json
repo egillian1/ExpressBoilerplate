@@ -1,0 +1,35 @@
+{
+  "name": "ExpressBoilerplate",
+  "version": "0.0.0",
+  "description": "Starter kit for Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Egill Ian Gudmundsson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "core-util-is": "^1.0.2",
+    "ejs": "^2.5.1",
+    "express": "^4.8.2",
+    "glob": "^7.0.5",
+    "lodash": "^4.15.0",
+    "lodash._basetostring": "^4.12.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^1.3.3",
+    "gulp": "^3.8.7",
+    "gulp-nodemon": "^1.0.4",
+    "jquery": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egillian1/ExpressBoilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/egillian1/ExpressBoilerplate/issues"
+  },
+  "homepage": "https://github.com/egillian1/ExpressBoilerplate"
+}
